@@ -1,4 +1,4 @@
-# 🐳 Docker Deep-Dive: Task 4
+# 🐳 Docker Deep-Dive
 
 Welcome to my Docker learning repository! This project is a comprehensive exploration of containerization, covering everything from basic concepts to advanced orchestration.
 
